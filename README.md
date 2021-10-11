@@ -1,6 +1,9 @@
 # School District Analysis
 
 ## Project Overview
+Prepare proficiency reading and math standards test data
+
+The school board has discovered evidence of academic dishonesty; specifically, the reading and math scores for Thomas High School ninth graders appear to have been altered.  A revised School District Analysis was conducted, excluding the Thomas High School ninth grade reading and math scores.
 
 DRAFT STARTER BELOW
  #### Voter Turnout:

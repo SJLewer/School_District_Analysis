@@ -13,13 +13,12 @@ Process reading and math proficiency standards test data for analysis, reporting
 The school board discovered evidence of academic dishonesty; specifically, the reading and math scores for Thomas High School ninth graders appear to have been altered.  A revised School District Analysis was conducted, excluding the Thomas High School ninth grade reading and math scores.
 
 ## Results, comparing the revised and original analyses:
- * _DISTRICT SUMMARY_ - No impact
+ * _DISTRICT SUMMARY_ - The Average Math Score decreased slightly from 79.0 to 78.9.  Nothing else changed.
  
-    ![DistrictSumOrig](https://user-images.githubusercontent.com/90986041/136877940-f94e6c23-5aab-4dc1-acaa-723bbebe14e0.png)
-    ![DistrictSumRev](https://user-images.githubusercontent.com/90986041/136880577-201fe6c6-87b2-4b86-8995-f5759dff7463.png)
+    ![DistrictSumOrig](https://user-images.githubusercontent.com/90986041/136966093-b0e309df-8c17-4fc4-ac50-d7f42a41b7a3.png)
+    ![DistrictSumRev](https://user-images.githubusercontent.com/90986041/136965961-1fa9a8e0-67d5-4c38-9b77-95b4a125f06a.png)
 
-
- * _SCHOOL SUMMARY_ - No impact other than Thomas High School's reading, math, and overall scores and percentages decreased.
+     * _SCHOOL SUMMARY_ - Thomas High School's reading, math, and overall scores and percentages decreased.  Nothing else changed.
  
     ![PerSchoolSumOrig](https://user-images.githubusercontent.com/90986041/136878683-546d8daa-278d-4f93-a76e-b72fda8c2d53.png)
     ![PerSchoolSumRev](https://user-images.githubusercontent.com/90986041/136880608-12ff6239-442c-4a91-a2db-f1e7cd09dc6f.png)

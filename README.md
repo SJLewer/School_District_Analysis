@@ -20,8 +20,9 @@ The school board discovered evidence of academic dishonesty; specifically, the r
 
      * _SCHOOL SUMMARY_ - Thomas High School's reading, math, and overall scores and percentages decreased.  Nothing else changed.
  
-    ![PerSchoolSumOrig](https://user-images.githubusercontent.com/90986041/136878683-546d8daa-278d-4f93-a76e-b72fda8c2d53.png)
-    ![PerSchoolSumRev](https://user-images.githubusercontent.com/90986041/136880608-12ff6239-442c-4a91-a2db-f1e7cd09dc6f.png)
+    ![PerSchoolSumOrig](https://user-images.githubusercontent.com/90986041/136968864-165c789f-cff1-46f2-8a9f-269cb604bbb4.png)
+    ![PerSchoolSumRev](https://user-images.githubusercontent.com/90986041/136968999-01304c8e-8c59-48cf-b4c8-9c87059d2d49.png)
+
 
  * _SCHOOL RANKINGS_ - Thomas High School's overall performance relative to other schools did not change. 
  

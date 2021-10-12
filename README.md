@@ -36,7 +36,7 @@ ___
 ## Resources
 _Data Sources_: https://github.com/SJLewer/School_District_Analysis/tree/main/Resources
 
-_Python 3.7.6 Script (Original Analysis)_: 
+_Python 3.7.6 Script (Original Analysis)_: https://github.com/SJLewer/School_District_Analysis/blob/main/PyCitySchools.ipynb
 _Python 3.7.6 Script (Revised Analysis)_: 
 
 _Analyst_: S. Lewer

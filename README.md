@@ -18,11 +18,10 @@ The school board discovered evidence of academic dishonesty; specifically, the r
     ![DistrictSumOrig](https://user-images.githubusercontent.com/90986041/136966093-b0e309df-8c17-4fc4-ac50-d7f42a41b7a3.png)
     ![DistrictSumRev](https://user-images.githubusercontent.com/90986041/136965961-1fa9a8e0-67d5-4c38-9b77-95b4a125f06a.png)
 
-     * _SCHOOL SUMMARY_ - Thomas High School's reading, math, and overall scores and percentages decreased.  Nothing else changed.
+ * _SCHOOL SUMMARY_ - Thomas High School's reading, math, and overall scores and percentages changed. Interestingly, the average reading score improved. Nothing else changed.
  
     ![PerSchoolSumOrig](https://user-images.githubusercontent.com/90986041/136968864-165c789f-cff1-46f2-8a9f-269cb604bbb4.png)
     ![PerSchoolSumRev](https://user-images.githubusercontent.com/90986041/136968999-01304c8e-8c59-48cf-b4c8-9c87059d2d49.png)
-
 
  * _SCHOOL RANKINGS_ - Thomas High School's overall performance relative to other schools did not change. 
  
@@ -31,33 +30,36 @@ The school board discovered evidence of academic dishonesty; specifically, the r
 
  * _REPLACING THE NINTH-GRADE SCORES AFFECT ON THE FOLLOWING_:
  
- ** Math and reading scores by grade - No impact other than Thomas High School's ninth grade scores are removed in the lists.
+   * Math and Reading Scores by Grade - No impact other than Thomas High School's ninth grade scores are removed in the lists.
  
-   ![MathScoreGradeOrig](https://user-images.githubusercontent.com/90986041/136878751-36d988d7-6fcd-4461-b41c-7d6b2fa24099.png)
-   ![MathScoreGradeRev](https://user-images.githubusercontent.com/90986041/136880671-4e73b969-9e6c-4795-9568-146ed0a4ccb4.png)
+     ![MathScoreGradeOrig](https://user-images.githubusercontent.com/90986041/136971529-d241dca4-5a54-41f3-843b-2d716d24436b.png)
+     ![MathScoreGradeRev](https://user-images.githubusercontent.com/90986041/136880671-4e73b969-9e6c-4795-9568-146ed0a4ccb4.png)
 
-   ![ReadScoreGradeOrig](https://user-images.githubusercontent.com/90986041/136878770-3c9217ce-f8fb-4288-ae7a-3085de1cd2f6.png)
-   ![ReadScoreGradeRev](https://user-images.githubusercontent.com/90986041/136880709-0ffc0b7a-d485-41d5-b494-c8a4da11c88b.png)
+     ![ReadScoreGradeOrig](https://user-images.githubusercontent.com/90986041/136971611-6a7dc18e-d19c-4e59-8d9c-ec8df7aaa4f7.png)
+     ![ReadScoreGradeRev](https://user-images.githubusercontent.com/90986041/136880709-0ffc0b7a-d485-41d5-b494-c8a4da11c88b.png)
 
- ** Scores by school spending - No impact
+
+   * Scores by School Spending - No impact
  
-   ![SpendSumOrig](https://user-images.githubusercontent.com/90986041/136878797-7b166631-b797-4a55-bdb4-c14ce7cd326f.png)
-   ![SpendSumRev](https://user-images.githubusercontent.com/90986041/136882396-55d6ba09-26b9-42bc-8da9-f2083be2022c.png)
+     ![SpendSumOrig](https://user-images.githubusercontent.com/90986041/136878797-7b166631-b797-4a55-bdb4-c14ce7cd326f.png)
+     ![SpendSumRev](https://user-images.githubusercontent.com/90986041/136882396-55d6ba09-26b9-42bc-8da9-f2083be2022c.png)
 
  
- ** Scores by school size - No impact
+   * Scores by School Size - No impact
  
-  ![SpendSizeOrig](https://user-images.githubusercontent.com/90986041/136878821-528a390b-400f-42c4-9cb7-2501c3b38500.png)
-  ![SpendSizeRev](https://user-images.githubusercontent.com/90986041/136880736-dde5fa81-d41a-46d0-b9e1-124ab36cb222.png)
+     ![SpendSizeOrig](https://user-images.githubusercontent.com/90986041/136878821-528a390b-400f-42c4-9cb7-2501c3b38500.png)
+     ![SpendSizeRev](https://user-images.githubusercontent.com/90986041/136880736-dde5fa81-d41a-46d0-b9e1-124ab36cb222.png)
 
- ** Scores by school type - No impact
 
-  ![TypeSumOrig](https://user-images.githubusercontent.com/90986041/136878855-9f5f4985-339e-49e6-a885-e75581fe678b.png)
-  ![TypeSumRev](https://user-images.githubusercontent.com/90986041/136880751-bd275ea4-bdca-4a97-9ea4-719f4b109d9f.png)
+   * Scores by School Type - No impact
+
+     ![TypeSumOrig](https://user-images.githubusercontent.com/90986041/136878855-9f5f4985-339e-49e6-a885-e75581fe678b.png)
+     ![TypeSumRev](https://user-images.githubusercontent.com/90986041/136880751-bd275ea4-bdca-4a97-9ea4-719f4b109d9f.png)
 
  ## Summary:
- As shown above, removal of the Thomas High School ninth grade reading and math scores only impacted these analyses:
- 1. School Summary - School figures remained the same, except those specifically related to Thomas High School's reading, math, and the overall percentages.
+ As shown above, removal of the Thomas High School ninth grade reading and math scores impacted these analyses:
+ 1. District Summary - The average math score decreased slightly.
+ 1. School Summary - School figures remained the same, except those specifically related to Thomas High School's reading, math, and overall scores and percentages.
  1. School Ranking - While Thomas High School's overall percentage decreased, it wasn't enough to change their second place ranking among the Top 5 schools.
  1. Math Scores by Grade - Thomas High School ninth grade math score is listed as "nan" (No available Number), proof that the scores were removed in the revised analysis.
  1. Reading Scores by Grade - Thomas High School ninth grade reading score is listed as "nan" (No available Number), proof that the scores were removed in the revised analysis.

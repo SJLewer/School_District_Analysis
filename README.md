@@ -34,7 +34,7 @@ The school board discovered evidence of academic dishonesty; specifically, the r
 
 ___
 ## Resources
-_Data Source_: 
+_Data Sources_: https://github.com/SJLewer/School_District_Analysis/tree/main/Resources
 
 _Python 3.7.6 Script (Original Analysis)_: 
 _Python 3.7.6 Script (Revised Analysis)_: 

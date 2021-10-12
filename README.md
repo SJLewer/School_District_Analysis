@@ -5,9 +5,9 @@
 Process reading and math proficiency standards test data for analysis, reporting, and presentation to provide insights to City School performance and trends.  This information will be used to inform discussions and make strategic decisions at school and district levels.  The analysis includes:
 1. District summary
 1. School summary
-1. Top and bottom five performing schools (based on the overall passing rate)
+1. Top and bottom five performing schools, based on the overall passing rate
 1. Average math and reading scores for each grade level from each school
-1. Scores by school spending per student, by school size and by school type
+1. Scores by school spending per student, by school size, and by school type
 
 ### Part II: 
 The school board discovered evidence of academic dishonesty; specifically, the reading and math scores for Thomas High School ninth graders appear to have been altered.  A revised School District Analysis was conducted, excluding the Thomas High School ninth grade reading and math scores.
@@ -37,6 +37,7 @@ ___
 _Data Sources_: https://github.com/SJLewer/School_District_Analysis/tree/main/Resources
 
 _Python 3.7.6 Script (Original Analysis)_: https://github.com/SJLewer/School_District_Analysis/blob/main/PyCitySchools.ipynb
-_Python 3.7.6 Script (Revised Analysis)_: 
+
+_Python 3.7.6 Script (Revised Analysis)_: https://github.com/SJLewer/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
 
 _Analyst_: S. Lewer
